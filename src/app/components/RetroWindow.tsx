@@ -31,9 +31,6 @@ export function RetroWindow({
         <nav className="retro-menubar" aria-label="Application menu">
           <button onClick={onFile} disabled={!onFile}>File</button>
           <button onClick={onBack} disabled={!onBack}>Edit</button>
-          <button disabled>View</button>
-          <button disabled>Outfit</button>
-          <button disabled>Help</button>
         </nav>
         {children}
         <footer className="retro-statusbar">
