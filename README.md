@@ -48,10 +48,6 @@ React, TypeScript, Vite, Tailwind CSS, Motion, and Lucide icons.
 - Chromé is not affiliated with or endorsed by Pantone.
 - The tool recommends colour relationships, not specific purchasable products.
 
-## Favicon
-
-`public/favicon.svg` is an editable placeholder. Replace that file with the final favicon while keeping the same filename, or update its path in `index.html`.
-
 ## Author
 
 Concept, product direction, interface design, colour workflow, and testing by Vidella.
